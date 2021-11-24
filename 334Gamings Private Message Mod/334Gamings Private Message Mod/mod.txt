@@ -1,0 +1,11 @@
+{
+	"name" : "Private Chat By 334Gaming",
+	"description" : "You can chat to people privately!",
+	"author" : "334Gaming/Dan",
+	"hooks" : [
+		{
+			"hook_id" : "lib/managers/chatmanager",
+			"script_path" : "mod.lua"
+		}
+	]
+}
